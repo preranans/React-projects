@@ -1,0 +1,52 @@
+{
+  "school_name": "Billionaire's Club",
+  "class": "25th Edition",
+  "info": {
+    "president": "Prerana",
+    "address": "Scranton, Pennsylvania",
+    "contacts": {
+      "email": "billionare@e.com",
+      "tel": "9876543210"
+    }
+  },
+  "students": [
+    {
+      "roll_no": "A1",
+      "name": "Prachi",
+      "grade": {
+        "Math": 60,
+        "Physics": 66,
+        "Chemistry": 61
+      }
+    },
+    {
+      "roll_no": "A2",
+      "name": "Yash",
+      "grade": {
+        "Math": 89,
+        "Physics": 76,
+        "Chemistry": 51
+      }
+    },
+    {
+      "roll_no": "A3",
+      "name": "Ankesh",
+      "grade": {
+        "Math": 79,
+        "Physics": 90,
+        "Chemistry": 78
+      }
+    },
+    {
+      "roll_no": "A4",
+      "name": "Nidhi",
+      "grade": {
+        "Math": 94,
+        "Physics": 99,
+        "Chemistry": 100,
+        "Biology": 99,
+        "English": 85
+      }
+    }
+  ]
+}
